@@ -1,0 +1,4 @@
+Turno 1: La aldea Nueva Esperanza fue fundada con 6 familias.
+Turno 1: Decisión: seguir la rutina.
+Turno 1: Producción: energía +12, raciones +18, agua +14.
+Turno 1: Turno tranquilo, sin eventos inesperados.
